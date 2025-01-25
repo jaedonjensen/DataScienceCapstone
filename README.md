@@ -17,7 +17,7 @@ The specific cervical cancer test results this project was made to predict is th
 •	Vulvo-perineal condylomatosis\
 •	HIV\
 •	Dx: Cancer\
-•	Dx: HPV\
+•	Dx: HPV
 
 ![alt text](./README_images/vulvo-perineal%20condylomatosis.png)
 ![alt text](./README_images/hiv.png)
